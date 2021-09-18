@@ -16,7 +16,7 @@ extra:
     version: 0.1.0
 # 主题
 theme: 
-    # name: 'readthedocs'
+    # name: 'mkdocs'
     # name: 'mkdocs'
     name: 'material'
 # markdown扩展
