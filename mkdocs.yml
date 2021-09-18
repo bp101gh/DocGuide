@@ -1,11 +1,11 @@
 # 站点名称
 site_name: 'DocGuide'
 # 仓库链接
-repo_url: https://github.com/ZJDoc/DocGuide.git
+repo_url: https://github.com/bp101gh/DocGuide.git
 # 作者
-site_author: 'zhujian'
+site_author: 'bp101gh'
 # 版权信息
-copyright: '2021, zhujian'
+copyright: '2021, bp101gh'
 # 源文件目录
 docs_dir: 'docs'
 # 生成静态文件目录
